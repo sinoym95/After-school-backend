@@ -9,7 +9,7 @@ const lessons = [
   { id: 1, title: "Art Class", description: "Fun art class", price: 50, availableStock: 7, location: "London" },
   { id: 2, title: "Biology Class", description: "Fun biology adventures", price: 60, availableStock: 9, location: "Birmingham" },
   { id: 3, title: "Business Class", description: "Learn business fundamentals", price: 60, availableStock: 10, location: "Manchester" },
-  { id: 4, title: "Chemistry Class", description: "Explore chemical reactions", price: 55, availableStock: 4, location: "Leeds" },
+  { id: 4, title: "Chemistry Class", description: "Explore chemical reactions", price: 60, availableStock: 8, location: "Leeds" },
   { id: 5, title: "Physics Class", description: "Discover the laws of nature", price: 45, availableStock: 6, location: "Sheffield" },
   { id: 6, title: "English Class", description: "Improve language skills", price: 50, availableStock: 8, location: "Liverpool" },
   { id: 7, title: "Sport Science Class", description: "Stay active and fit", price: 60, availableStock: 9, location: "Glasgow" },
