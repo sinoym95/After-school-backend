@@ -11,7 +11,7 @@ const lessons = [
   { id: 3, title: "Business Class", description: "Learn business fundamentals", price: 60, availableStock: 10, location: "Manchester" },
   { id: 4, title: "Chemistry Class", description: "Explore chemical reactions", price: 60, availableStock: 8, location: "Leeds" },
   { id: 5, title: "Physics Class", description: "Discover the laws of nature", price: 60, availableStock: 12, location: "Sheffield" },
-  { id: 6, title: "English Class", description: "Improve language skills", price: 50, availableStock: 8, location: "Liverpool" },
+  { id: 6, title: "English Class", description: "Improve language skills", price: 60, availableStock: 13, location: "Liverpool" },
   { id: 7, title: "Sport Science Class", description: "Stay active and fit", price: 60, availableStock: 9, location: "Glasgow" },
   { id: 8, title: "Computer Science Class", description: "Learn coding and programming", price: 70, availableStock: 5, location: "Bristol" },
   { id: 9, title: "History Class", description: "Learn history fundamentals", price: 65, availableStock: 4, location: "Nottingham" },
