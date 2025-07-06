@@ -15,7 +15,7 @@ const lessons = [
   { id: 7, title: "Sport Science Class", description: "Stay active and fit", price: 60, availableStock: 14, location: "Glasgow" },
   { id: 8, title: "Computer Science Class", description: "Learn coding and programming", price: 60, availableStock: 15, location: "Bristol" },
   { id: 9, title: "History Class", description: "Learn history fundamentals", price: 69, availableStock: 23, location: "Nottingham" },
-  { id: 10, title: "Maths Class", description: "Learn advanced math", price: 75, availableStock: 3, location: "Leicester" }
+  { id: 10, title: "Maths Class", description: "Learn advanced math", price: 72, availableStock: 19, location: "Leicester" }
 ];
 
 // Middleware to parse incoming JSON requests
